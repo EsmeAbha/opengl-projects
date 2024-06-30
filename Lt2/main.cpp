@@ -2,7 +2,7 @@
 
 #include <GL/glut.h> // GLUT, include glu.h and gl.h
 
-/* Initialize OpenGL Graphics */
+
 
 void initGL() {
 
